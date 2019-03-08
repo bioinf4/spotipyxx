@@ -6,6 +6,10 @@ import webbrowser
 import spotipy.util as util
 from json.decoder import JSONDecodeError
 
+#cd C:\example\example then use SET SPOTIPY_CLIENT_ID=clientIDhere and 
+# SET SPOTIPY_CLIENT_SECRET=secretHere SET SPOTIPY_REDIRCT_URI=redirecturi
+# pip install spotipy
+
 # Get username from the terminal
 username = "227qkpgpadng3pu55qxnt7yoa?si=4hgx6DtSTICVgE8jBhYTjA"
 try: 
